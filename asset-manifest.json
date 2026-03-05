@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Giretalm/Updated-Exercise-App/static/css/main.31756a2c.css",
+    "main.js": "/Giretalm/Updated-Exercise-App/static/js/main.528c911d.js",
+    "index.html": "/Giretalm/Updated-Exercise-App/index.html",
+    "main.31756a2c.css.map": "/Giretalm/Updated-Exercise-App/static/css/main.31756a2c.css.map",
+    "main.528c911d.js.map": "/Giretalm/Updated-Exercise-App/static/js/main.528c911d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31756a2c.css",
+    "static/js/main.528c911d.js"
+  ]
+}
